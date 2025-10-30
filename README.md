@@ -20,3 +20,9 @@ dataset = load_dataset("uvowaidef/Disco_Elysium_Russian_Dialogue_Corpus")
 
 Основан на официальной русской локализации игры Disco Elysium (2020).
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a050d85a-51aa-4be8-96c1-f9b74cd634cf" />
+
+
+[![HuggingFace](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/uvowaidef/Disco_Elysium_Russian_Dialogue_Corpus)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
